@@ -2,7 +2,7 @@
 This repository contains the final capstone project for data analytics using Power BI, focused on business intelligence for  a leading e-commerce platform in Portugal.
 
 📌 Project Objective
-The objective of this capstone is to deliver a comprehensive analytical dashboard that enables ShopNest stakeholders to:
+The objective of this capstone is to deliver a comprehensive analytical dashboard that enables stakeholders to:
 
 Identify top-performing product categories
 
